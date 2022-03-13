@@ -1,0 +1,11 @@
+c:\users\димон\documents\visual studio 2013\Projects\lagrange\lagrange\bin\Debug\lagrange.exe.config
+c:\users\димон\documents\visual studio 2013\Projects\lagrange\lagrange\bin\Debug\lagrange.exe
+c:\users\димон\documents\visual studio 2013\Projects\lagrange\lagrange\bin\Debug\lagrange.pdb
+c:\users\димон\documents\visual studio 2013\Projects\lagrange\lagrange\obj\Debug\lagrange.csprojResolveAssemblyReference.cache
+c:\users\димон\documents\visual studio 2013\Projects\lagrange\lagrange\obj\Debug\lagrange.Form1.resources
+c:\users\димон\documents\visual studio 2013\Projects\lagrange\lagrange\obj\Debug\lagrange.Properties.Resources.resources
+c:\users\димон\documents\visual studio 2013\Projects\lagrange\lagrange\obj\Debug\lagrange.csproj.GenerateResource.Cache
+c:\users\димон\documents\visual studio 2013\Projects\lagrange\lagrange\obj\Debug\lagrange.exe
+c:\users\димон\documents\visual studio 2013\Projects\lagrange\lagrange\obj\Debug\lagrange.pdb
+c:\users\димон\documents\visual studio 2013\Projects\lagrange\lagrange\obj\Debug\lagrange.Form2.resources
+c:\users\димон\documents\visual studio 2013\Projects\lagrange\lagrange\obj\Debug\lagrange.Form3.resources

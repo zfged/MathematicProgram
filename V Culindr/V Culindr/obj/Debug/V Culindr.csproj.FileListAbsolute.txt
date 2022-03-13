@@ -1,0 +1,11 @@
+c:\users\димон\documents\visual studio 2013\Projects\V Culindr\V Culindr\bin\Debug\V Culindr.exe.config
+c:\users\димон\documents\visual studio 2013\Projects\V Culindr\V Culindr\bin\Debug\V Culindr.exe
+c:\users\димон\documents\visual studio 2013\Projects\V Culindr\V Culindr\bin\Debug\V Culindr.pdb
+c:\users\димон\documents\visual studio 2013\Projects\V Culindr\V Culindr\obj\Debug\V Culindr.csprojResolveAssemblyReference.cache
+c:\users\димон\documents\visual studio 2013\Projects\V Culindr\V Culindr\obj\Debug\V_Culindr.Form1.resources
+c:\users\димон\documents\visual studio 2013\Projects\V Culindr\V Culindr\obj\Debug\V_Culindr.Properties.Resources.resources
+c:\users\димон\documents\visual studio 2013\Projects\V Culindr\V Culindr\obj\Debug\V Culindr.csproj.GenerateResource.Cache
+c:\users\димон\documents\visual studio 2013\Projects\V Culindr\V Culindr\obj\Debug\V Culindr.exe
+c:\users\димон\documents\visual studio 2013\Projects\V Culindr\V Culindr\obj\Debug\V Culindr.pdb
+C:\Users\Димон\Documents\Visual Studio 2013\Projects\V Culindr\V Culindr\obj\Debug\V_Culindr.Form2.resources
+C:\Users\Димон\Documents\Visual Studio 2013\Projects\V Culindr\V Culindr\obj\Debug\V_Culindr.Form3.resources

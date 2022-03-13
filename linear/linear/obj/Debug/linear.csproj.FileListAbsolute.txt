@@ -1,0 +1,8 @@
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\linear\linear\bin\Debug\linear.exe
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\linear\linear\bin\Debug\linear.pdb
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\linear\linear\obj\Debug\linear.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\linear\linear\obj\Debug\linear.Form1.resources
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\linear\linear\obj\Debug\linear.Properties.Resources.resources
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\linear\linear\obj\Debug\linear.csproj.GenerateResource.Cache
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\linear\linear\obj\Debug\linear.exe
+C:\Users\Дима\Documents\Visual Studio 2013\Projects\linear\linear\obj\Debug\linear.pdb
